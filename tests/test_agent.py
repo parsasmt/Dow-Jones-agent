@@ -9,14 +9,14 @@ from agent.memory import (
 
 init_db()
 
-user_id = "Ali123"
+user_id = "Hasan123"
 
 
 questions = [
 
-    "What is the Dow Jones?",
+    "What is the difference between the Dow Jones and sp500?",
 
-    "When is a good time to invest in the Dow Jones?",
+    "What are the companies in the Dow Jones?",
 
     "What is important news about the Dow Jones today?",
 
